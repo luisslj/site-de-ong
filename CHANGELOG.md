@@ -1,5 +1,11 @@
 # 📌 Changelog
 
+## [v1.2.0] - 2025-10-21
+### Adicionado
+- Modo escuro e alto contraste
+- Templates de Pull Request e Issue
+- README profissional
+
 ## [v1.1.0] - 2025-10-21
 ### Adicionado
 - Modo escuro e alto contraste
