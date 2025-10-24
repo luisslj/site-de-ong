@@ -1,4 +1,4 @@
-# 📌 Changelog
+#Changelog
 
 ## [v1.2.0] - 2025-10-21
 ### Adicionado
@@ -22,3 +22,5 @@
 - Páginas: index, projetos, cadastro
 - Formulário completo com validação
 - Imagens otimizadas
+
+[v1.0.0.000]
